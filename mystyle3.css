@@ -1,0 +1,56 @@
+body{
+			background-color: lightblue;
+		}
+		body{
+			color: blue;
+		}
+		h1{
+			text-align: center;
+		}
+		h1, h2{
+			font-family: calibri;
+		}
+		h1{
+			font-size: 3em;
+			}
+		p{
+			font-family: Centaur;
+		}
+		:focus{
+			border: 2px solid green;
+		}
+	/*Primera Fila*/li:first-child {font-size: 2em}
+
+	/*Primera Letra*/.letra:first-letter {font-size: 2em}
+	.triangulo{
+		list-style-image: ;
+	}
+/* Elimina el subrallado de los enlaces*/a {
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	background-color:  
+	 rbga(3,255,104,0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
